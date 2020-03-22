@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SterlingEngine", "SterlingEngine\SterlingEngine.csproj", "{D4A9FEB3-886F-4430-B0F2-32F27B43A8DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4A9FEB3-886F-4430-B0F2-32F27B43A8DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4A9FEB3-886F-4430-B0F2-32F27B43A8DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4A9FEB3-886F-4430-B0F2-32F27B43A8DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4A9FEB3-886F-4430-B0F2-32F27B43A8DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {841203DA-4E8A-4A8D-8119-1B5FF391A033}
+	EndGlobalSection
+EndGlobal
